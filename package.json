@@ -1,0 +1,24 @@
+{
+  "name": "prod-stream",
+  "version": "1.0.0",
+  "description": "",
+  "main": "stream-prod.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Moha-dotcom/prod-stream.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Moha-dotcom/prod-stream/issues"
+  },
+  "homepage": "https://github.com/Moha-dotcom/prod-stream#readme",
+  "dependencies": {
+    "node": "^25.0.0"
+  }
+}
