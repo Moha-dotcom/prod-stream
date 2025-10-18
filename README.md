@@ -3,7 +3,7 @@
 
 
 # Optimizing File writes and Read using:
-     - #Streams and Buffers
+ Streams and Buffers
      - Slow  Streaming took about 2-Minutes to write 200M Products in JSON Format. 
      - Fast Streaming - > 
        Finished writing to product.json  200M products in binary!
